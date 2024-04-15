@@ -15,7 +15,9 @@
     "react-slick": "^0.28.1",
     "react-switch": "^7.0.0",
     "slick-carousel": "^1.8.1",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "webpack": "4.44.2"
+
   },
   "scripts": {
     "start": "craco start",
