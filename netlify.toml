@@ -1,4 +1,4 @@
 [build]
   command = "npm run build -- --verbose"
   publish = "build/"
-  environment = { NODE_VERSION = "16" }
+  environment = { NODE_VERSION = "$(cat .nvmrc)" }
