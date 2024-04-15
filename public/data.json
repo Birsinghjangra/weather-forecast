@@ -1,0 +1,86 @@
+[
+    {
+        "country_code": "US",
+        "cou_name_en": "United States",
+        "name": "New York",
+        "population": "8398748",
+        "timezone": "America/New_York"
+    },
+    {
+        "country_code": "CA",
+        "cou_name_en": "Canada",
+        "name": "Toronto",
+        "population": "2731571",
+        "timezone": "America/Toronto"
+    },
+    {
+        "country_code": "GB",
+        "cou_name_en": "United Kingdom",
+        "name": "London",
+        "population": "8982000",
+        "timezone": "Europe/London"
+    },
+    {
+        "country_code": "FR",
+        "cou_name_en": "France",
+        "name": "Paris",
+        "population": "2140526",
+        "timezone": "Europe/Paris"
+    },
+    {
+        "country_code": "US",
+        "cou_name_en": "United States",
+        "name": "New York",
+        "population": "8398748",
+        "timezone": "America/New_York"
+    },
+    {
+        "country_code": "CA",
+        "cou_name_en": "Canada",
+        "name": "Toronto",
+        "population": "2731571",
+        "timezone": "America/Toronto"
+    },
+    {
+        "country_code": "GB",
+        "cou_name_en": "United Kingdom",
+        "name": "London",
+        "population": "8982000",
+        "timezone": "Europe/London"
+    },
+    {
+        "country_code": "FR",
+        "cou_name_en": "France",
+        "name": "Paris",
+        "population": "2140526",
+        "timezone": "Europe/Paris"
+    },
+    {
+        "country_code": "US",
+        "cou_name_en": "United States",
+        "name": "New York",
+        "population": "8398748",
+        "timezone": "America/New_York"
+    },
+    {
+        "country_code": "CA",
+        "cou_name_en": "Canada",
+        "name": "Toronto",
+        "population": "2731571",
+        "timezone": "America/Toronto"
+    },
+    {
+        "country_code": "GB",
+        "cou_name_en": "United Kingdom",
+        "name": "London",
+        "population": "8982000",
+        "timezone": "Europe/London"
+    },
+    {
+        "country_code": "FR",
+        "cou_name_en": "France",
+        "name": "Paris",
+        "population": "2140526",
+        "timezone": "Europe/Paris"
+    }
+]
